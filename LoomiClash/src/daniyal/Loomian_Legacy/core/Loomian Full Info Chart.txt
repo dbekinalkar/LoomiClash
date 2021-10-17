@@ -1,0 +1,130 @@
+ID,Loomian,Type 1,Type 2,HP,Energy,Melee ATK,Melee DEF,Ranged ATK,Ranged DEF,Speed,Total,Regular 1,Regular 2,Secret,Height,Weight,,
+1,Embit,Fire,,57,51,60,67,36,50,40,361,Awakening,,Terrifying,83.82 cm,20.41 kg,83.82,20.41
+2,Rabburn,Fire,,61,67,75,95,46,68,60,472,Awakening,,Terrifying,149.86 cm,39.46 kg,149.86,39.46
+3,Searknight,Fire,Metal,88,88,102,125,60,82,65,610,Awakening,,Terrifying,208.28 cm,98.43 kg,208.28,98.43
+4,Dripple,Water,,63,51,56,50,55,45,41,361,Awakening,,Power Napper,76.2 cm,17.24 kg,76.2,17.24
+5,Reptide,Water,,78,67,71,70,70,65,51,472,Awakening,,Power Napper,106.68 cm,33.57 kg,106.68,33.57
+6,Luminami,Water,Light,102,88,90,93,94,83,60,610,Awakening,,Power Napper,160.02 cm,91.63 kg,160.02,91.63
+7,Fevine,Plant,,45,51,71,44,50,36,64,361,Awakening,,Thriving Pace,71.12 cm,15.88 kg,71.12,15.88
+8,Felver,Plant,,55,67,96,55,70,45,84,472,Awakening,,Thriving Pace,116.84 cm,37.19 kg,116.84,37.19
+9,Tahtab,Plant,Brawler,72,88,126,75,80,65,104,610,Awakening,,Thriving Pace,162.56 cm,74.84 kg,162.56,74.84
+10,Eaglit,Light,,45,51,36,36,71,62,60,361,Awakening,,Applied Frustration,73.66 cm,17.24 kg,73.66,17.24
+11,Torprey,Light,,57,67,64,40,91,63,90,472,Awakening,,Applied Frustration,132.08 cm,25.85 kg,132.08,25.85
+12,Falkyrie,Light,Metal,84,88,80,71,125,87,75,610,Awakening,,Applied Frustration,195.58 cm,80.74 kg,195.58,80.74
+13,Vambat,Dark,,47,51,47,50,47,50,69,361,Awakening,,Sharp Claws,66.04 cm,8.16 kg,66.04,8.16
+14,Dimpire,Dark,,60,67,65,75,60,60,85,472,Awakening,,Sharp Claws,154.94 cm,30.39 kg,154.94,30.39
+15,Vesperatu,Dark,Spirit,76,88,110,90,82,65,99,610,Awakening,,Sharp Claws,203.2 cm,65.77 kg,203.2,65.77
+16,Snocub,Ice,,55,51,45,38,67,60,45,361,Awakening,,Staunch,48.26 cm,6.35 kg,48.26,6.35
+17,Snowki,Ice,,65,67,75,65,75,65,60,472,Awakening,,Staunch,144.78 cm,35.38 kg,144.78,35.38
+18,Himbrr,Ice,Earth,124,88,98,115,65,75,45,610,Awakening,,Staunch,233.68 cm,108.86 kg,233.68,108.86
+19,Weevolt,Electric,,51,51,36,36,67,55,65,361,Awakening,,Brute Force,68.58 cm,14.06 kg,68.58,14.06
+20,Stozap,Electric,,71,67,56,41,88,60,89,472,Awakening,,Brute Force,124.46 cm,33.57 kg,124.46,33.57
+21,Zuelong,Electric,Ancient,78,88,89,56,106,74,119,610,Awakening,,Brute Force,220.98 cm,59.87 kg,220.98,59.87
+22,Twilat,Typeless,,50,41,42,38,42,38,40,291,Confidence,Territorial,Neutralize,35.56 cm,10.89 kg,35.56,10.89
+23,Umbrat,Dark,,75,75,96,79,51,78,71,525,Confidence,Dusk,Overshadow,99.06 cm,38.1 kg,99.06,38.1
+24,Luxoar,Light,,75,75,51,68,96,69,91,525,Confidence,Dawn,Illuminate,99.06 cm,37.19 kg,99.06,37.19
+25,Tiklipse,Light,Dark,85,80,51,84,116,83,96,595,Circadian,,Total Eclipse,114.3 cm,42.64 kg,114.3,42.64
+26,Cathorn,Bug,,35,37,40,24,55,24,47,262,Hasty,,Defensive Priority,33.02 cm,7.26 kg,33.02,7.26
+27,Propae,Bug,,50,46,39,60,39,55,37,326,Hasty,,Defensive Priority,88.9 cm,14.06 kg,88.9,14.06
+28,Cynamoth,Bug,Air,60,69,45,55,92,80,83,484,Mystery Toxins,,Flutter,114.3 cm,20.41 kg,114.3,20.41
+29,Twittle,Air,,44,40,50,38,22,33,58,285,Confidence,Early Bird,Rev Up,40.64 cm,7.71 kg,40.64,7.71
+30,Paratweet,Air,,54,56,75,48,32,43,88,396,Confidence,Early Bird,Rev Up,81.28 cm,15.88 kg,81.28,15.88
+31,Avitross,Air,,79,80,100,68,62,63,113,565,Confidence,Early Bird,Rev Up,160.02 cm,44.45 kg,160.02,44.45
+32,Pyder,Bug,Toxic,45,43,60,40,30,40,45,303,Apprehension,Webbing,Coursing Venom,35.56 cm,7.71 kg,35.56,7.71
+33,Swolder,Bug,Toxic,85,70,115,85,10,65,65,495,Apprehension,Webbing,Coursing Venom,93.98 cm,24.04 kg,93.98,24.04
+34,Antsee,Plant,Bug,55,43,25,60,40,60,20,303,Mystery Toxins,Woodsman,Drainage,38.1 cm,5.44 kg,38.1,5.44
+35,Florant,Plant,Bug,85,68,45,90,65,90,35,478,Mystery Toxins,Woodsman,Drainage,111.76 cm,33.57 kg,111.76,33.57
+36,Grubby,Bug,,35,39,50,40,35,33,42,274,Odd Husk,Premonition,Defensive Priority,35.56 cm,6.8 kg,35.56,6.8
+37,Coonucopia,Bug,,60,48,45,65,35,48,37,338,Odd Husk,Premonition,Defensive Priority,83.82 cm,12.25 kg,83.82,12.25
+38,Terrafly,Bug,Toxic,70,70,97,80,46,60,72,495,Odd Husk,Ambush,Bug Fever,165.1 cm,37.65 kg,165.1,37.65
+39,Kleptyke,Dark,,55,48,50,40,20,30,95,338,Apprehension,Burglar,Ability Thief,81.28 cm,14.51 kg,81.28,14.51
+40,Ragoon,Dark,,90,75,95,85,40,50,90,525,Apprehension,Burglar,Ability Thief,121.92 cm,30.39 kg,121.92,30.39
+41,Babore,Earth,,62,46,60,60,30,30,38,326,Boast,,Resilience,63.5 cm,21.32 kg,63.5,21.32
+42,Boarrok,Earth,,92,76,110,90,40,60,68,536,Boast,,Resilience,124.46 cm,53.52 kg,124.46,53.52
+43,Geklow,Electric,Light,50,55,50,45,68,50,67,385,Lightning Rod,Radiance,Prismatic,73.66 cm,17.24 kg,73.66,17.24
+44,Eleguana,Electric,Light,80,80,50,85,80,115,80,570,Lightning Rod,Radiance,Prismatic,129.54 cm,57.15 kg,129.54,57.15
+45,Slugling,Plant,,70,41,10,10,50,70,45,296,Mystery Toxins,Ungracious Host,Slimy,38.1 cm,12.7 kg,38.1,12.7
+46,Escargrow,Plant,,90,65,35,20,65,90,50,415,Mystery Toxins,Ungracious Host,Slimy,111.76 cm,30.84 kg,111.76,30.84
+47,Gastroak,Plant,,115,83,55,35,85,115,55,543,Mystery Toxins,Ungracious Host,Slimy,236.22 cm,130.18 kg,236.22,130.18
+48,Kabunga,Plant,,52,53,76,43,64,34,86,408,Communication,Territorial,Noxious Weeds,88.9 cm,24.04 kg,88.9,24.04
+49,Wiki-Wiki,Plant,,152,125,49,55,49,55,47,532,Communication,Chaperone,Noxious Weeds,215.9 cm,117.93 kg,215.9,117.93
+50,Chartiki,Plant,Fire,98,104,15,75,103,75,62,532,Communication,Territorial,Noxious Weeds,254 cm,81.65 kg,254,81.65
+51,Shawchi,Mind,,79,91,36,42,99,64,89,500,Enchant,,Sharp Focus,114.3 cm,19.05 kg,114.3,19.05
+52,Rakrawla,Earth,,75,59,51,68,44,54,43,394,Clutch,Hasty,Lazy,76.2 cm,15.88 kg,76.2,15.88
+53,Sedimars,Earth,,107,87,88,98,47,76,54,557,Clutch,Hasty,Lazy,154.94 cm,106.14 kg,154.94,106.14
+54,Gumpod,Water,,60,55,42,98,42,43,33,373,Protective Shell,,Sharp Edges,48.26 cm,5.44 kg,48.26,5.44
+55,Ventacean,Water,,90,85,52,142,75,53,48,545,Protective Shell,,Sharp Edges,157.48 cm,104.33 kg,157.48,104.33
+56,Phancub,Spirit,Brawler,46,60,65,50,46,55,60,382,Sharp Claws,,Adorable,66.04 cm,8.16 kg,66.04,8.16
+57,Ursoul,Spirit,Brawler,99,89,115,63,30,80,75,551,Sharp Claws,,Terrifying,203.2 cm,95.25 kg,203.2,95.25
+58,Whispup,Spirit,Fire,45,60,57,42,70,48,72,394,Scorching Skin,Temper,Vengeance,96.52 cm,1.81 kg,96.52,1.81
+59,Revenine,Spirit,Fire,60,89,90,58,115,62,97,571,Scorching Skin,Temper,Vengeance,149.86 cm,22.68 kg,149.86,22.68
+60,Skilava,Fire,,50,70,48,49,58,49,55,379,Combustible,Scorching Skin,Pyro,55.88 cm,6.35 kg,55.88,6.35
+61,Geksplode,Fire,,65,80,52,58,80,59,60,454,Combustible,Scorching Skin,Pyro,88.9 cm,54.43 kg,88.9,54.43
+62,Eruptidon,Fire,,81,90,89,69,100,84,77,590,Combustible,Scorching Skin,Pyro,266.7 cm,102.51 kg,266.7,102.51
+63,Craytal,Fire,,76,74,34,43,76,43,62,408,Volcanic,Territorial,Combustible,81.28 cm,11.79 kg,81.28,11.79
+63,Craytal,Ice,Plant,76,74,76,43,14,63,62,408,Chill,Parting Gift,Regift,81.28 cm,11.79 kg,81.28,11.79
+64,Krakaloa,Fire,,85,125,35,90,81,94,22,532,Volcanic,Territorial,Combustible,205.74 cm,155.58 kg,205.74,155.58
+65,Volkaloa,Fire,Ancient,81,86,105,74,20,64,102,532,Volcanic,Territorial,Combustible,198.12 cm,107.95 kg,198.12,107.95
+66,Igneol,Ancient,,62,75,60,70,42,41,42,392,Premonition,Sharp Edges,Resilience,63.5 cm,15.88 kg,63.5,15.88
+67,Chrysite,Ancient,,82,80,64,99,47,46,42,460,Premonition,Sharp Edges,Resilience,134.62 cm,77.11 kg,134.62,77.11
+68,Obsidrugon,Ancient,,99,100,90,124,67,65,65,610,Premonition,Sharp Edges,Resilience,256.54 cm,133.81 kg,256.54,133.81
+69,Cafnote,Typeless,,60,60,42,62,42,58,53,377,Virtuoso,Territorial,Brute Force,124.46 cm,57.61 kg,124.46,57.61
+69,Cafnote,Typeless,,60,60,42,58,42,62,53,377,Virtuoso,Adorable,Tone Deaf,124.46 cm,57.61 kg,124.46,57.61
+70,Trumbull,Typeless,,92,75,134,102,42,62,73,580,Virtuoso,Territorial,Brute Force,172.72 cm,146.96 kg,172.72,146.96
+71,Mootune,Typeless,,92,75,42,73,134,102,62,580,Virtuoso,Adorable,Tone Deaf,177.8 cm,187.79 kg,177.8,187.79
+72,Gobbidemic,Toxic,,70,80,15,60,88,64,123,500,Immunized,,Baneful,101.6 cm,43.09 kg,101.6,43.09
+73,Icigool,Spirit,Ice,95,69,112,94,10,81,39,500,Parting Gift,,No Secret Ability,109.22 cm,6.8 kg,109.22,6.8
+74,Pyramind,Mind,,88,60,45,69,84,99,35,480,Idiosyncratic,Temper,Contact Curse,139.7 cm,113.4 kg,139.7,113.4
+75,Pharoglyph,Mind,,88,95,50,50,120,101,106,610,Idiosyncratic,Temper,Contact Curse,218.44 cm,166.47 kg,218.44,166.47
+76,Burroach,Bug,Earth,32,60,46,63,45,54,77,377,Trash Armor,Slimy,Sharp Claws,38.1 cm,15.88 kg,38.1,15.88
+77,Garbantis,Bug,Earth,53,76,77,90,54,64,104,518,Trash Armor,Slimy,Sharp Claws,165.1 cm,57.61 kg,165.1,57.61
+78,Whimpor,Metal,Air,62,58,21,46,59,62,53,361,Clutch,Frail Armor,Toxic Filter,78.74 cm,31.75 kg,78.74,31.75
+79,Stratusoar,Metal,Air,95,80,34,77,105,108,81,580,Clutch,Frail Armor,Toxic Filter,228.6 cm,220.9 kg,228.6,220.9
+80,Territi,Toxic,Metal,51,58,61,44,59,48,52,373,Confidence,Immunized,Handy,101.6 cm,29.03 kg,101.6,29.03
+81,Dyeborg,Toxic,Metal,73,86,92,78,88,82,68,567,Tank,Immunized,Handy,203.2 cm,179.62 kg,203.2,179.62
+82,Operaptor,Metal,Earth,53,67,64,61,45,53,49,392,Terrifying,Power Jaw,Staunch,106.68 cm,39.46 kg,106.68,39.46
+83,Concredon,Metal,Earth,77,77,84,69,53,64,66,490,Terrifying,Power Jaw,Staunch,180.34 cm,106.14 kg,180.34,106.14
+84,Tyrecks,Metal,Earth,89,89,111,102,62,83,74,610,Terrifying,Power Jaw,Staunch,299.72 cm,404.6 kg,299.72,404.6
+85,Chompactor,Metal,,58,55,61,73,32,51,45,375,Rev Up,Salvage,Specialization,71.12 cm,24.04 kg,71.12,24.04
+86,Munchweel,Metal,,89,79,94,113,42,78,66,561,Rev Up,Salvage,Specialization,200.66 cm,192.78 kg,200.66,192.78
+87,Scorb,Metal,,49,55,25,42,67,45,77,360,Communication,,Clutch,38.1 cm,10.89 kg,38.1,10.89
+88,Veylens,Metal,,57,64,28,56,88,67,55,415,Communication,,Clutch,127 cm,24.04 kg,127,24.04
+89,Gardrone,Metal,,69,82,54,68,132,119,61,585,Communication,,Clutch,187.96 cm,67.13 kg,187.96,67.13
+90,Poochrol,Metal,Electric,51,51,59,52,31,47,69,360,Brute Force,,Power Jaw,63.5 cm,8.62 kg,63.5,8.62
+91,Hunder,Metal,Electric,78,84,94,83,43,69,116,567,Brute Force,,Power Jaw,137.16 cm,42.64 kg,137.16,42.64
+92,Terraclaw,Bug,,79,72,121,106,20,54,43,495,Odd Husk,Pincer Trap,Slick Shell,111.76 cm,33.11 kg,111.76,33.11
+93,Goppie,Water,,48,54,33,45,53,46,64,343,Apprehension,Adorable,Quick Recovery,43.18 cm,6.8 kg,43.18,6.8
+94,Arapaigo,Water,,95,79,51,74,99,74,105,577,Apprehension,Finesse,Quick Recovery,251.46 cm,62.6 kg,251.46,62.6
+95,Pyke,Ancient,Water,64,84,62,58,33,51,68,420,Bitter Touch,Combative,Contact Curse,58.42 cm,5.44 kg,58.42,5.44
+96,Skelic,Ancient,Water,89,100,104,82,45,68,87,575,Bitter Touch,Combative,Contact Curse,193.04 cm,34.47 kg,193.04,34.47
+97,Zaleo,Ancient,Electric,73,68,63,55,55,54,52,420,Driven,Adorable,Overcharged,50.8 cm,6.35 kg,50.8,6.35
+98,Joltooth,Ancient,Electric,94,89,126,67,76,64,69,585,Driven,Ambush,Overcharged,154.94 cm,62.14 kg,154.94,62.14
+99,Dobo,Ancient,Fire,58,74,47,44,71,68,58,420,Pyro,Scorching Skin,Power Napper,40.64 cm,4.54 kg,40.64,4.54
+100,Infernix,Ancient,Fire,79,90,57,53,110,107,89,585,Pyro,Scorching Skin,Power Napper,187.96 cm,39.46 kg,187.96,39.46
+101,Kyogo,Ancient,Dark,51,63,55,64,51,62,74,420,Anomaly,,Surrogate,66.04 cm,9.53 kg,66.04,9.53
+102,Dorogo,Ancient,Dark,66,81,85,72,81,69,116,570,Anomaly,,Surrogate,132.08 cm,30.84 kg,132.08,30.84
+103,Wiledile,Water,Plant,63,63,74,57,69,50,79,455,Swampy,,Woodsman,93.98 cm,24.95 kg,93.98,24.95
+104,Mawamurk,Water,Plant,109,78,92,87,89,84,41,580,Swampy,,Woodsman,261.62 cm,101.6 kg,261.62,101.6
+105,Ampole,Electric,,44,55,33,41,35,42,69,319,Specialization,Watcher,Sly,33.02 cm,3.63 kg,33.02,3.63
+106,Amphiton,Electric,Mind,59,72,59,61,60,64,81,456,Specialization,Watcher,Sly,78.74 cm,15.88 kg,78.74,15.88
+107,Meditoad,Electric,Mind,89,86,95,87,99,91,43,590,Specialization,Watcher,Sly,142.24 cm,55.34 kg,142.24,55.34
+108,Pwuff,Water,Toxic,75,54,46,71,47,69,49,411,Sharp Edges,Toxic Spines,Baneful,53.34 cm,7.71 kg,53.34,7.71
+109,Bloatox,Water,Toxic,93,80,89,91,57,73,82,565,Sharp Edges,Toxic Spines,Baneful,73.66 cm,14.06 kg,73.66,14.06
+111,Swimp,Water,,46,60,52,44,25,47,64,338,Power Jaw,Apprehension,Devious,63.5 cm,6.8 kg,63.5,6.8
+112,Snapr,Water,,58,71,81,63,31,59,72,435,Power Jaw,Terrifying,Devious,101.6 cm,13.15 kg,101.6,13.15
+113,Garlash,Water,,87,89,100,79,53,72,100,580,Power Jaw,Terrifying,Devious,165.1 cm,27.67 kg,165.1,27.67
+114,Hydrini,Bug,Water,40,52,41,48,56,56,45,338,Vivid Sight,Shakedown,Aqua Body,35.56 cm,4.99 kg,35.56,4.99
+115,Bezeldew,Bug,Water,60,65,54,78,80,88,52,477,Vivid Sight,Shakedown,Aqua Body,71.12 cm,25.85 kg,71.12,25.85
+116,Deludrix,Bug,Water,60,80,109,53,122,62,94,580,Vivid Sight,Shakedown,Aqua Body,139.7 cm,57.15 kg,139.7,57.15
+117,Ceratot,Ancient,Plant,59,69,56,64,26,42,44,360,Frail Armor,Staunch,Vigorous,43.18 cm,29.48 kg,43.18,29.48
+118,Trepodon,Ancient,Plant,74,80,84,86,32,56,48,460,Frail Armor,Staunch,Vigorous,96.52 cm,146.96 kg,96.52,146.96
+119,Colossotrops,Ancient,Plant,103,96,124,111,55,67,54,610,Frail Armor,Staunch,Vigorous,172.72 cm,348.36 kg,172.72,348.36
+150,Waka-Laka,Plant,Mind,99,58,33,76,124,101,41,532,Communication,Expertise,Enchanted Coat,187.96 cm,111.13 kg,187.96,111.13
+151,Festifir,Ice,Plant,113,90,119,56,44,88,22,532,Chill,Parting Gift,Regift,205.74 cm,67.59 kg,205.74,67.59
+192,Duskit,Spirit,Mind,74,100,100,81,105,81,109,650,Harmonize,,Mean Spirited,93.98 cm,16.78 kg,93.98,16.78
+193,Ikazune,Fire,Electric,68,125,104,62,139,78,74,650,Raging Fire,,Rechargeable,175.26 cm,38.1 kg,175.26,38.1
+194,Protogon,Metal,,53,108,67,94,111,96,121,650,Analyze,,Replicate,261.62 cm,134.72 kg,261.62,134.72
+203,Mutagon,Mind,Brawler,107,123,104,134,48,63,71,650,Tank,,Heavy Fists,233.68 cm,125.19 kg,233.68,125.19
+204,Metronette,Dark,Mind,80,95,49,95,127,99,105,650,Mysterious Cloak,,Applied Frustration,96.52 cm,30.39 kg,96.52,30.39
+205,Cephalops,Water,Dark,154,96,96,64,119,69,52,650,Bloodsucker,,Nightmarish,251.46 cm,140.61 kg,251.46,140.61
+206,Wabalisc,Ice,,101,93,99,83,112,93,69,650,Ignorant,,Hasty,218.44 cm,59.87 kg,218.44,59.87
