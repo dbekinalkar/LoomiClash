@@ -20,7 +20,7 @@ public class LoomianDB {
 		
 		Loomipedia = new ArrayList<Species>();
 		
-		File db = new File("C:/Loomian Legacy/Loomian Full Info Chart.txt");
+		File db = new File("Loomian Full Info Chart.txt");
 		
 		Scanner file;
 		
